@@ -34,16 +34,19 @@
       
       .symptom {
           width: 50%;
+	  text-align: center;
       }
       .prevent img {
           width: 50%;
           
       }
       .txt-symptom {
-          font-size: 17px
+          font-size: 17px;
+	  text-align: center;
       }
       .txt-prevent {
           font-size: 17px;
+	  text-align: center;
       }
       .content2 {
         width: 50%;
