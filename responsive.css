@@ -1,0 +1,120 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+  .container {
+    width: 50%;
+  }
+    .top-wrapper h1 {
+      font-size: 30px;
+      text-align: center;
+      margin-top: 0;
+    }
+    .top-wrapper p {
+      font-size: 14px;
+      text-align: center;
+    }
+    .Gambar1 {
+      width: 100%;
+      margin: 0px auto;
+      padding-bottom : 10px;
+    }
+    .btn {
+      width: 100%;
+    }
+    .heading h2 {
+        font-size: 25px;
+        text-align: center;
+      }
+      .heading h3 {
+        font-size: 20px;
+        text-align: center;
+      }
+      .prevent {
+          margin-bottom: 50px;
+      }
+      
+      .symptom {
+          width: 50%;
+      }
+      .prevent img {
+          width: 50%;
+          
+      }
+      .txt-symptom {
+          font-size: 17px
+      }
+      .txt-prevent {
+          font-size: 17px;
+      }
+      .content2 {
+        width: 50%;
+        margin-bottom: 50px;
+      }
+      .team .card{
+        width:50%;
+        margin-bottom:30px;
+      }
+    
+    }
+  
+
+  /* Untuk Smartphone */
+  @media all and (max-width: 670px) {
+    
+    .header-right {
+      display: none;
+    }
+    .menu-icon {
+      display: block;
+    }
+    .top-wrapper {
+     text-align: center;
+    }
+    .Gambar1 {
+      border-image-width: center;
+      width: 100%;
+      margin-bottom: 20px;
+    }
+    .top-wrapper h1 {
+      font-size: 18px;
+      text-align: center;
+    }
+    .top-wrapper p {
+      font-size: 12px;
+      text-align: center;
+    }
+    .heading h2 {
+		font-size: 20px;
+        text-align: center;
+	}
+	.heading h3 {
+		font-size: 18px;
+        text-align: center;
+	}
+	.symptom {
+		width: 100%;
+	}
+	.txt-symptom {
+		font-size: 15px;
+	}
+	.prevent {
+		width: 100%;
+	}
+	.txt-prevent {
+		font-size: 15px;
+		padding-bottom: 0;
+	}
+	.prevent img {
+    width:100%;
+    }
+    .content2 {
+        width: 100%;
+      }
+      .container {
+        width: 100%;
+      }
+      .team .card{
+        width:100%;
+      }
+  }
+  
+  
