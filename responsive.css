@@ -91,20 +91,23 @@
 	}
 	.heading h3 {
 		font-size: 18px;
-        text-align: center;
+        	text-align: center;
 	}
 	.symptom {
 		width: 100%;
 	}
 	.txt-symptom {
 		font-size: 15px;
+		text-align: center;
 	}
 	.prevent {
 		width: 100%;
+		text-align: center;
 	}
 	.txt-prevent {
 		font-size: 15px;
 		padding-bottom: 0;
+		text-align: center;
 	}
 	.prevent img {
     width:100%;
